@@ -2,7 +2,7 @@
 
 This repository includes sample code and data for concatenated matrix factorization (CNMF) for muscle synergy analysis. 
 
-For more details of this approach and/or to cite this repository, refer to the follwoing publications:
+For more details of this approach and/or to cite this repository, refer to the following publications:
 
 Shourijeh, Mohammad S., Teresa E. Flaxman, and Daniel L. Benoit. "An approach for improving repeatability and reliability of non-negative matrix factorization for muscle synergy analysis." Journal of Electromyography and Kinesiology 26 (2016): 36-43.
 
