@@ -5,8 +5,6 @@ function Main_CNMF
 close all; 
 clear all; clc;
 
-% global NoS NoM data_all Ntri NoD 
-% global wsize NoS S NoM plot_sub_no Ctot
 address=pwd;
 
 task='RA';
@@ -84,7 +82,7 @@ function [Ctot,S,CF1,tot_VAF,tot_VAF_all,mean_tot_VAF_all,tot_VAF_Torres]  =  CN
 % 3) MATLAB fmincon
 % 4) purturb the results
 
-% [options, options2]  =  optim_Settings; % loads settings for optimziation
+% [options, options2]  =  optim_Settings; % loads settings for optimization
 
 %% A  =  CS
 
